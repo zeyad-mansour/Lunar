@@ -1,23 +1,181 @@
---find-links https://download.pytorch.org/whl/torch_stable.html
-
-torch==1.11.0+cu113
-torchvision==0.12.0+cu113
-
-matplotlib>=3.2.2
-numpy>=1.18.5
-opencv-python>=4.1.2
-Pillow
-PyYAML>=5.3.1
-scipy>=1.4.1
-tqdm>=4.41.0
-tensorboard>=2.4.1
-seaborn>=0.11.0
-pandas
-
-mss
-pygame
-pynput
-pywin32
-requests
-wheel
-termcolor
+[+] Built in Anti-Cheat Blocker
+[+] Built in Spoofer
+[+] Full controller support
+[+] Screenshot Cleaner
+ 
+Weaponry
+ 
+Aimbot:
+[+] Enable Aimbot
+[+] Aimbot Type (Lock-On, Silent Aim, Trigger Bot, Psilent)
+[+] Target Bone (22 Bones)
+[+] Priority (Crosshair, Bone, Distance, Lowest Health, Enemy FOV)
+[+] Automations (None, Stand, Crouch, Prone, Long Slide, Quick Slide, Peak)
+[+] Bone Scan
+[+] Auto Fire
+[+] Auto ADS
+[+] Ignore Downed
+[+] Ignore Riot-Shield
+[+] Target Self-Revive
+[+] Enable Keybind
+[+] Aim key
+[+] Aim Key Delay
+[+] Prediction Strength
+ 
+Smoothing:
+[-] ADVANCED
+[+] Enable Smoothing
+[+] Random Factor
+[+] Number Of Points
+[+] Control Point One
+[+] Control Point Two
+[+] Aim Speed Increment
+[+] Endpoint Noise Level
+[+] Bezier Curve visualizer
+ 
+[-] BASIC
+[+] Enable Smoothing
+[+] Number Of Points
+[+] Aim Speed Increment
+[+] Bezier Curve visualize
+ 
+Weapon Manipulation:
+[+] Recoil Multiplier
+[+] Fast Reload
+[+] Rapid Fire
+ 
+ESP
+[+] Enable ESP
+[+] Show Team
+[+] Show Enemies
+[+] Show Actors
+[+] Show Agents
+[+] Box Type (None, Outline, Corner, Filled)
+[+] Name
+[+] Health
+[+] Weapon
+[+] Distance
+[+] Skeleton
+[+] Kills
+[+] Team ID
+[+] Ignore Non-Visible
+[+] ESP Visulizer
+ 
+Loot
+[+] Enable Loot ESP
+[+] Preview Loot Cache Contents
+[+] Show Loot Background
+[+] Render Distance
+ 
+Screen Chams:
+[+] Enable Chams
+[+] Show Visible Outlines
+[+] Show Non-Visible Outlines
+[+] Chams Filled
+[+] Chams Solid
+[+] Outline Width
+[+] Show Vehicles
+[+] Show Actors
+[+] Show Teammates
+[+] Show Enemies
+[+] Show Items
+[+] Show Equipment
+[+] Show Turrets
+ 
+Miscellaneous:
+[+] Directional Compass
+[+] Snaplines Friendly
+[+] Snaplines Enemies
+[+] Snaplines Visible
+[+] Healthbar
+[+] Threat Warnings
+[+] Esp Distance
+ 
+Crosshair:
+[+] Dot
+[+] Gap
+[+] Lenth
+[+] Thickness
+[+] Outline
+[+] Crosshair Visilizer
+ 
+Fov:
+[+] Fov Circle
+[+] Show Fov Circle
+[+] FOV Circle Radius
+[+] FOV Scale
+ 
+Miscellaneous
+ 
+Exploits:
+[+] Airstuck
+[+] Airstuck Keybind
+[+] Night Vision
+[+] Night Vision Keybind
+ 
+Removals:
+[+] Third Person
+[+] Force Third Person ADS
+[+] Force Third Person Inspect
+[+] Disable Shellshock
+[+] Disable Weapon Motion
+[+] Disable Fog
+[+] Disable Flinch
+ 
+FOV Settings:
+[+] Uncap FOV
+[+] Dynamic FOV
+ 
+Game UI:
+[+] RGB UI
+[+] Custom Color
+[+] Text
+[+] Images
+[+] Rainbow
+ 
+Radar:
+[+] Enable Radar
+[+] Radar Size
+[+] Radar Scale
+[+] Bip Radius
+[+] Background
+[+] Clamp To radar
+ 
+Force Save:
+[+] Blueprint Name
+[+] Camo Selection
+[+] Blueprint Slot Index
+[+] Send All Blueprints
+[+] Delete All Blueprints
+ 
+Automations:
+[+] Enable Silent Shot
+[+] Silent Shot Toggle (Snipers)
+[+] Silent Shot Keybind
+[+] Enable Auto Inspect
+[+] Auto Inspect (after kill)
+[+] Auto Inspect Keybind
+ 
+Extras:
+[+] Enable Footsteps
+[+] Unlock All
+ 
+Bullet Tracers:
+[+] Enable Tracers
+[+] Peak Duration
+[+] Fade In Duration
+[+] Fade Out Duration
+[+] Hit Scale Factor
+[+] Line Color
+[+] Hit Color
+[+] Hit Outline Color
+ 
+Grenade Tracers:
+[+] Enable Grenade Tracers
+ 
+Configuration
+[+] Config System
+[+] Menu Colors
+[+] ESP Colors
+[+] Aimbot Presets (Ultra Legit, Legit, Semi Legit, Rage (smooth), Rage (Lock-On), Rage (Silent Aim)
+ 
